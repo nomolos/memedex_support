@@ -1,2 +1,13 @@
-# memedex_support
-Support information for memedex
+# Memedex Support
+
+Welcome to our support page!
+
+For reporting any bugs, confusions, anything inconveniences, email us @ memedex2020@gmail.com
+If you find a bug, we'll hand-pick a meme just for you and email it back :)
+
+If you're interested in contributing to memedex (especially if you're a mobile developer or designer), email us @ memedex2020@gmail.com
+
+For anything at all, email us @ memedex2020@gmail.com
+
+
+
